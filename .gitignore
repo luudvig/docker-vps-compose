@@ -1,0 +1,7 @@
+/data-certbot/
+/data-db/
+/data-files/
+/data-rclone/
+/data-site/
+/update.log
+/update.tgz
